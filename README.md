@@ -30,4 +30,4 @@ Este projeto consiste na criação de um dashboard de vendas no Excel para anál
 - Microsoft Excel (versão compatível com tabelas dinâmicas e gráficos).
 
 ## Autor
-[Seu Nome] - Desenvolvido como parte de um desafio de análise de dados.# xbox-sales-dashboard.
+[Thiago Gagliardi] - Desenvolvido como parte de um desafio de análise de dados.# xbox-sales-dashboard.
